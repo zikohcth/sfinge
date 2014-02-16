@@ -36,6 +36,9 @@
     <ClCompile Include="FinGe.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="F_ShapeGen.cpp">
+      <Filter>Header Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Form1.h">
@@ -51,6 +54,9 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="FinGe.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F_ShapeGen.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
