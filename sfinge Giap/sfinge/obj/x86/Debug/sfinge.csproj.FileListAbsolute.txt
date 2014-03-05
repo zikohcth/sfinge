@@ -1,0 +1,19 @@
+D:\LAPTOP BK2\project\w\sfinge\sfinge\bin\Debug\sfinge.exe
+D:\LAPTOP BK2\project\w\sfinge\sfinge\bin\Debug\sfinge.pdb
+D:\LAPTOP BK2\project\w\sfinge\sfinge\obj\x86\Debug\sfinge.Properties.Resources.resources
+D:\LAPTOP BK2\project\w\sfinge\sfinge\obj\x86\Debug\sfinge.csproj.GenerateResource.Cache
+D:\LAPTOP BK2\project\w\sfinge\sfinge\obj\x86\Debug\sfinge.exe
+D:\LAPTOP BK2\project\w\sfinge\sfinge\obj\x86\Debug\sfinge.pdb
+D:\LAPTOP BK2\project\w\sfinge\sfinge\obj\x86\Debug\sfinge.Form2.resources
+D:\LAPTOP BK2\project\w\sfinge\sfinge\obj\x86\Debug\sfinge.Form1.resources
+D:\LAPTOP BK2\project\w\sfinge\sfinge\obj\x86\Debug\sfinge.csprojResolveAssemblyReference.cache
+D:\LAPTOP BK2\project\w\sfinge\sfinge\obj\x86\Debug\sfinge.Form3.resources
+D:\LAPTOP BK2\project\w\sfinge\sfinge\obj\x86\Debug\sfinge.Form4.resources
+D:\LAPTOP BK2\project\w\sfinge\sfinge\obj\x86\Debug\sfinge.Form5.resources
+D:\LAPTOP BK2\project\w\sfinge\sfinge\obj\x86\Debug\sfinge.Form6.resources
+D:\LAPTOP BK2\project\w\sfinge\sfinge\obj\x86\Debug\sfinge.Form7.resources
+D:\LAPTOP BK2\project\w\sfinge\sfinge\obj\x86\Debug\sfinge.Form8.resources
+D:\LAPTOP BK2\project\w\sfinge\sfinge\obj\x86\Debug\sfinge.Form10.resources
+D:\LAPTOP BK2\project\w\sfinge\sfinge\obj\x86\Debug\sfinge.Form9.resources
+D:\LAPTOP BK2\project\w\sfinge Giap\sfinge\obj\x86\Debug\sfinge.exe
+D:\LAPTOP BK2\project\w\sfinge Giap\sfinge\obj\x86\Debug\sfinge.pdb
